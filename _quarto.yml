@@ -9,8 +9,6 @@ website:
         text: Overview
       - href: proposal.qmd
         text: Proposal
-      - href: data.qmd
-        text: Data
       - href: takeaways.qmd
         text: Takeaways
       - href: report.qmd

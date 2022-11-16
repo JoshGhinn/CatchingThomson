@@ -1,3 +1,8 @@
+---
+title: "Project Proposal"
+
+---
+
 ## Motivation
 
 In resource-scarce Singapore, the primary purpose of public transport is to serve residents with efficient forms of mass transportation. Our study goes beyond traditional catchment analysis methods which focus on pedestrian catchment and also consider cycling catchment. This is in line with the LTA 2040 "Walk, Cycle, Ride" Masterplan and the growing popularity of cycling globally. With an estimated public cost of \$25 billion and an ever-increasing ridership, it is essential to critically evaluate the full benefits of stage 4 stations along the Thomson East Coast Line (TEL).

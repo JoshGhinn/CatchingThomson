@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Catching Thomson - Project Intro</title>
+<title>Catching Thomson - Project Overview</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -86,16 +86,13 @@ ul.task-list li input[type="checkbox"] {
     <a class="nav-link" href="./proposal.html">Proposal</a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./data.qmd">Data</a>
-  </li>  
-  <li class="nav-item">
     <a class="nav-link" href="./takeaways.html">Takeaways</a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./report.html">Report</a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./poster.qmd">Poster</a>
+    <a class="nav-link" href="./poster.html">Poster</a>
   </li>  
 </ul>
               <div id="quarto-search" class="" title="Search"></div>
@@ -112,10 +109,7 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#catching-thomson" id="toc-catching-thomson" class="nav-link active" data-scroll-target="#catching-thomson">Catching Thomson</a>
-  <ul class="collapse">
-  <li><a href="#our-key-findings" id="toc-our-key-findings" class="nav-link" data-scroll-target="#our-key-findings"><strong>Our key findings</strong></a></li>
-  </ul></li>
+  <li><a href="#our-key-findings" id="toc-our-key-findings" class="nav-link active" data-scroll-target="#our-key-findings">Our key findings</a></li>
   </ul>
 </nav>
     </div>
@@ -124,7 +118,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Project Intro</h1>
+<h1 class="title">Project Overview</h1>
 </div>
 
 
@@ -138,49 +132,40 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
-<section id="catching-thomson" class="level1">
-<h1>Catching Thomson</h1>
-<p>Test</p>
-<p>A report published by the Singapore Department of Statistics (2020) has shown an increase in ridership, travelling time and distance across all types of public transport in Singapore, <strong>possibly leading to increased traffic congestion or breakdowns of public transport systems</strong>. Accessible and effective public transportation is essential to enable the thriving economy of the urban-dense, fast-paced island nation. This is why good planning of mass public transport systems like the Mass Rapid Transport (MRT) system is so important.&nbsp;</p>
-<p>Most recently, the development of the Thomson East Coast Line (TEL) has been a crucial part of Singapore’s plan to enable 4 in every 5 households to live within a 10-minute walk of a train station [1]. There have also been plans to expand the islandwide cycling network to about 700km by 2030 [2]. Our team will measure, analyse, and evaluate the effectiveness of the proposed Stage 4 TEL stations <strong>and</strong> the implementation of a cycling path network in those areas.&nbsp;<br>
-</p>
-<p>The seven Stage 4 TEL stations we will analyse are shown below.</p>
-<p><br>
-<img src="https://lh3.googleusercontent.com/Om0ck8dM6486QcEp1b_mgQcFsIrbGXBt9vxVcxZ5moIHuitEph4htTfyUYwDKHdxtan5Qu3uQlpDooD5tQvzgcywSWpOuigMGOxs9FeHB79WW53UdXZSJcoefu86gAfmYuzs_2eDwlshCpoAQ113iGQxhSwtm310LaU3bvkWqMpGhq-HSIF8HdD7I9luIw.png" class="img-fluid"><br>
-In addition to its much later opening in 2027 [3], most residential areas near the Founders’ Memorial station are covered by buffer zones of the adjacent Tanjong Rhu MRT. <strong>We will thus exclude the TE22A Founders’ Memorial MRT station from our analysis.</strong><br>
-</p>
-<p>Our analysis:</p>
+<p>A report published by the Singapore Department of Statistics (2020) has shown an increase in ridership, travelling time and distance across all types of public transport in Singapore, possibly leading to increased traffic congestion or breakdowns of public transport systems. Accessible and effective public transportation is essential to enable the thriving economy of the urban-dense, fast-paced island nation. This is why good planning of mass public transport systems like the Mass Rapid Transport (MRT) system is so important.</p>
+<p>Most recently, the development of the Thomson East Coast Line (TEL) has been a crucial part of Singapore’s plan to enable 4 in every 5 households to live within a 10-minute walk of a train station [1]. There have also been plans to expand the island wide cycling network to about 700 km by 2030 [2]. Our team will measure, analyse, and evaluate the effectiveness of the proposed Stage 4 TEL stations and** **the implementation of a cycling path network in those areas.</p>
+<p>The seven Stage 4 TEL stations we will analyse are shown below:</p>
+<p><img src="images/sg_mrts.png" class="img-fluid"></p>
+<p>In addition to its much later opening in 2027 [3], most residential areas near the Founders’ Memorial station are covered by buffer zones of the adjacent Tanjong Rhu MRT. We will thus exclude the TE22A Founders’ Memorial MRT station from our analysis.</p>
+<p>Stages of analysis:</p>
 <ol type="1">
-<li><p>Initial Data Exploration and Analysis</p>
+<li>Initial Data Exploration and Analysis
 <ol type="1">
-<li><p>Using OSM data (POIs and residential)</p></li>
-<li><p>Population data</p></li>
-<li><p>Buffer zones</p></li>
+<li>Using OSM data (POIs and residential)</li>
+<li>Population data</li>
+<li>Buffer zones</li>
 </ol></li>
-<li><p>Data Extraction</p>
-<ol type="1">
-<li><p>Aggregate demand from bus stop data</p></li>
-<li><p>OSM Road data</p></li>
+<li>Data Extraction
+<ol start="4" type="1">
+<li>Aggregate demand from bus stop data</li>
+<li>OSM Road data</li>
 </ol></li>
-<li><p>Data Classification</p>
-<ol type="1">
+<li>Data Classification
+<ol start="6" type="1">
 <li>Manual labelling of OSM road layers for network analysis</li>
 </ol></li>
-<li><p>Creation of analysis layers</p>
-<ol type="1">
-<li><p>Network analysis layer (QNEAT’s Iso Areas) for each MRT station</p></li>
-<li><p>Measuring demand from analysis</p></li>
+<li>Creation of analysis layers
+<ol start="7" type="1">
+<li>Network analysis layer (QNEAT’s Iso Areas) for each MRT station</li>
+<li>Measuring demand from analysis</li>
 </ol></li>
 </ol>
-<p><br>
-</p>
 <section id="our-key-findings" class="level2">
-<h2 class="anchored" data-anchor-id="our-key-findings"><strong>Our key findings</strong></h2>
-<p>With improved cycling infrastructure such as bike lanes and bike parks, the value and accessibility of the MRT stations are increased significantly. We also note that with the extended reach of cycling expands over multiple MRT lines, which makes it possible for relevant authorities to consider investing in biking infrastructure, rather than MRT stations.&nbsp;</p>
+<h2 class="anchored" data-anchor-id="our-key-findings">Our key findings</h2>
+<p>With improved cycling infrastructure such as bike lanes and bike parks, the value and accessibility of the MRT stations are increased significantly. We also note that with the extended reach of cycling expands over multiple MRT lines, which makes it possible for relevant authorities to consider investing in biking infrastructure, rather than MRT stations.</p>
 <p>We urge the relevant authorities to consider investing higher in biking infrastructure to encourage a transport system that is sustainable, active, and affordable.</p>
 
 
-</section>
 </section>
 
 </main> <!-- /main -->

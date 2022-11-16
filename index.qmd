@@ -1,51 +1,34 @@
 ---
-title: "Project Intro"
+title: "Project Overview"
 ---
 
-# Catching Thomson
+A report published by the Singapore Department of Statistics (2020) has shown an increase in ridership, travelling time and distance across all types of public transport in Singapore, possibly leading to increased traffic congestion or breakdowns of public transport systems. Accessible and effective public transportation is essential to enable the thriving economy of the urban-dense, fast-paced island nation. This is why good planning of mass public transport systems like the Mass Rapid Transport (MRT) system is so important.
 
-Test
+Most recently, the development of the Thomson East Coast Line (TEL) has been a crucial part of Singapore's plan to enable 4 in every 5 households to live within a 10-minute walk of a train station \[1\]. There have also been plans to expand the island wide cycling network to about 700 km by 2030 \[2\]. Our team will measure, analyse, and evaluate the effectiveness of the proposed Stage 4 TEL stations and\*\* \*\*the implementation of a cycling path network in those areas.
 
-A report published by the Singapore Department of Statistics (2020) has shown an increase in ridership, travelling time and distance across all types of public transport in Singapore, **possibly leading to increased traffic congestion or breakdowns of public transport systems**. Accessible and effective public transportation is essential to enable the thriving economy of the urban-dense, fast-paced island nation. This is why good planning of mass public transport systems like the Mass Rapid Transport (MRT) system is so important. 
+The seven Stage 4 TEL stations we will analyse are shown below:
 
-Most recently, the development of the Thomson East Coast Line (TEL) has been a crucial part of Singapore's plan to enable 4 in every 5 households to live within a 10-minute walk of a train station \[1\]. There have also been plans to expand the islandwide cycling network to about 700km by 2030 \[2\]. Our team will measure, analyse, and evaluate the effectiveness of the proposed Stage 4 TEL stations **and** the implementation of a cycling path network in those areas. \
+![](images/sg_mrts.png)
 
-The seven Stage 4 TEL stations we will analyse are shown below.
+In addition to its much later opening in 2027 \[3\], most residential areas near the Founders' Memorial station are covered by buffer zones of the adjacent Tanjong Rhu MRT. We will thus exclude the TE22A Founders' Memorial MRT station from our analysis.
 
-\
-![](https://lh3.googleusercontent.com/Om0ck8dM6486QcEp1b_mgQcFsIrbGXBt9vxVcxZ5moIHuitEph4htTfyUYwDKHdxtan5Qu3uQlpDooD5tQvzgcywSWpOuigMGOxs9FeHB79WW53UdXZSJcoefu86gAfmYuzs_2eDwlshCpoAQ113iGQxhSwtm310LaU3bvkWqMpGhq-HSIF8HdD7I9luIw)\
-In addition to its much later opening in 2027 \[3\], most residential areas near the Founders' Memorial station are covered by buffer zones of the adjacent Tanjong Rhu MRT. **We will thus exclude the TE22A Founders' Memorial MRT station from our analysis.**\
-
-Our analysis:
+Stages of analysis:
 
 1.  Initial Data Exploration and Analysis
-
     1.  Using OSM data (POIs and residential)
-
     2.  Population data
-
     3.  Buffer zones
-
 2.  Data Extraction
-
-    1.  Aggregate demand from bus stop data
-
-    2.  OSM Road data
-
+    4.  Aggregate demand from bus stop data
+    5.  OSM Road data
 3.  Data Classification
-
-    1.  Manual labelling of OSM road layers for network analysis
-
+    6.  Manual labelling of OSM road layers for network analysis
 4.  Creation of analysis layers
+    7.  Network analysis layer (QNEAT's Iso Areas) for each MRT station
+    8.  Measuring demand from analysis
 
-    1.  Network analysis layer (QNEAT's Iso Areas) for each MRT station
+## Our key findings
 
-    2.  Measuring demand from analysis
-
-\
-
-## **Our key findings**
-
-With improved cycling infrastructure such as bike lanes and bike parks, the value and accessibility of the MRT stations are increased significantly. We also note that with the extended reach of cycling expands over multiple MRT lines, which makes it possible for relevant authorities to consider investing in biking infrastructure, rather than MRT stations. 
+With improved cycling infrastructure such as bike lanes and bike parks, the value and accessibility of the MRT stations are increased significantly. We also note that with the extended reach of cycling expands over multiple MRT lines, which makes it possible for relevant authorities to consider investing in biking infrastructure, rather than MRT stations.
 
 We urge the relevant authorities to consider investing higher in biking infrastructure to encourage a transport system that is sustainable, active, and affordable.
