@@ -1,0 +1,14 @@
+{
+  "hash": "fb5e3724734e2db313c8ba8e7ccd3661",
+  "result": {
+    "markdown": "---\ntitle: \"CatchingThomson\"\n---\n\n\nThis is a Quarto website.\n\nTo learn more about Quarto websites visit <https://quarto.org/docs/websites>.\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1 * 9 - 7 *100 /.21\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] -3323.333\n```\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
