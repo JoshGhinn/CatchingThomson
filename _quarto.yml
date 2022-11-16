@@ -8,15 +8,15 @@ website:
       - href: overview.qmd
         text: Overview
       - href: proposal.qmd
-        text: Project Proposal
+        text: Proposal
       - href: data.qmd
-        text: Data Preperation
-      - href: lesson.qmd
-        text: Lessons Learnt
+        text: Data
+      - href: takeaways.qmd
+        text: Takeaways
       - href: report.qmd
-        text: Project Report
+        text: Report
       - href: poster.qmd
-        text: Project Poster
+        text: Poster
     right:
       - href: index.qmd
         text: Home
