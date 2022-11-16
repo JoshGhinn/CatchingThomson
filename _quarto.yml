@@ -9,10 +9,10 @@ website:
         text: Overview
       - href: proposal.qmd
         text: Proposal
-      - href: takeaways.qmd
-        text: Takeaways
       - href: report.qmd
         text: Report
+      - href: takeaways.qmd
+        text: Takeaways
       - href: poster.qmd
         text: Poster
 

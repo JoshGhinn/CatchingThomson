@@ -11,7 +11,7 @@ In our project, we did 2 types of analysis: Circular Buffer Analysis and Network
 
 Although this is a naive method that does not take into account the network lines, we did gain a few insights from the 1 km buffer analysis.
 
-![alt_text](images/timage1.png "image_tooltip")
+![](images/timage2.png "image_tooltip")
 
 As shown above, the extent of overlap between the buffer zones is different across the TEL Stage 4 MRT stations. This also means that the MRT stations are not equidistant away from each other, with some closer than others. From our analysis, we have observed that the extent of overlap between Marine Parade station and Tanjong Katong station is the largest, followed by the overlap between Marine Parade station and Marine Terrace station.
 
@@ -35,8 +35,6 @@ We also noticed that the Bedok South subzone is the second most densely populate
 
 ## Network Analysis
 
-![alt_text](images/timage2.png "image_tooltip")
-
 Using previously collected bus stop data in our work area, we have measured the approximate demand for those areas within a 5 minute journey on foot and cycling - specifically, on dedicated bike routes like park connectors and shared roads like primary roads.
 
 We have split our analyses into 3 parts: Walking, Beginner Cycling, and Advanced Cycling.
@@ -50,11 +48,13 @@ We have split our analyses into 3 parts: Walking, Beginner Cycling, and Advanced
 
 We have created four charts below to illustrate the impact that cycling has on accessibility to these MRT stations based on our analysis.
 
-![alt_text](images/timage3.png "image_tooltip")
+![](images/timage1.png "image_tooltip")
 
-![alt_text](images/timage4.png "image_tooltip")
+![](images/timage3.png "image_tooltip")
 
-![alt_text](images/timage5.png "image_tooltip")
+![](images/timage4.png "image_tooltip")
+
+![](images/timage5.png "image_tooltip")
 
 In the charts above, we can observe that most of the stations in our work area have at least twice as much demand for cycling than just walking. We can also see the significant differences in the demand between dedicated cycling routes and cycling on shared roads, from about 3 times to more than 10 times, depending on the station.
 
@@ -62,7 +62,7 @@ One thing to note is the concentration of bus trips within the Marine Parade MRT
 
 <p id="gdcalert6">
 
-![alt_text](images/timage6.png "image_tooltip")
+![](images/timage6.png "image_tooltip")
 
 We can also see the difference between the areas covered by the extended journeys using cycling, which increases significantly - from 10 times to more than 20 times.
 

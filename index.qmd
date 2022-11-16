@@ -21,17 +21,17 @@ In addition to its much later opening in 2027 [^3], most residential areas near 
 Stages of analysis:
 
 1.  Initial Data Exploration and Analysis
-    1.  Using OSM data (POIs and residential)
-    2.  Population data
-    3.  Buffer zones
+    -   Using OSM data (POIs and residential)
+    -   Population data
+    -   Buffer zones
 2.  Data Extraction
-    4.  Aggregate demand from bus stop data
-    5.  OSM Road data
+    -   Aggregate demand from bus stop data
+    -   OSM Road data
 3.  Data Classification
-    6.  Manual labelling of OSM road layers for network analysis
+    -   Manual labelling of OSM road layers for network analysis
 4.  Creation of analysis layers
-    7.  Network analysis layer (QNEAT's Iso Areas) for each MRT station
-    8.  Measuring demand from analysis
+    -   Network analysis layer (QNEAT's Iso Areas) for each MRT station
+    -   Measuring demand from analysis
 
 ## Our key findings
 
