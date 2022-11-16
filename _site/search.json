@@ -9,9 +9,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "CatchingThomson",
+    "title": "Project Intro",
     "section": "",
-    "text": "A report published by the Singapore Department of Statistics (2020) has shown an increase in ridership, travelling time and distance across all types of public transport in Singapore, possibly leading to increased traffic congestion or breakdowns of public transport systems. Accessible and effective public transportation is essential to enable the thriving economy of the urban-dense, fast-paced island nation. This is why good planning of mass public transport systems like the Mass Rapid Transport (MRT) system is so important. \nMost recently, the development of the Thomson East Coast Line (TEL) has been a crucial part of Singapore’s plan to enable 4 in every 5 households to live within a 10-minute walk of a train station [1]. There have also been plans to expand the islandwide cycling network to about 700km by 2030 [2]. Our team will measure, analyse, and evaluate the effectiveness of the proposed Stage 4 TEL stations and the implementation of a cycling path network in those areas. \n\nThe seven Stage 4 TEL stations we will analyse are shown below.\n\n\nIn addition to its much later opening in 2027 [3], most residential areas near the Founders’ Memorial station are covered by buffer zones of the adjacent Tanjong Rhu MRT. We will thus exclude the TE22A Founders’ Memorial MRT station from our analysis.\n\nOur analysis:\n\nInitial Data Exploration and Analysis\n\nUsing OSM data (POIs and residential)\nPopulation data\nBuffer zones\n\nData Extraction\n\nAggregate demand from bus stop data\nOSM Road data\n\nData Classification\n\nManual labelling of OSM road layers for network analysis\n\nCreation of analysis layers\n\nNetwork analysis layer (QNEAT’s Iso Areas) for each MRT station\nMeasuring demand from analysis\n\n\n\n\n\n\nWith improved cycling infrastructure such as bike lanes and bike parks, the value and accessibility of the MRT stations are increased significantly. We also note that with the extended reach of cycling expands over multiple MRT lines, which makes it possible for relevant authorities to consider investing in biking infrastructure, rather than MRT stations. \nWe urge the relevant authorities to consider investing higher in biking infrastructure to encourage a transport system that is sustainable, active, and affordable."
+    "text": "Test\nA report published by the Singapore Department of Statistics (2020) has shown an increase in ridership, travelling time and distance across all types of public transport in Singapore, possibly leading to increased traffic congestion or breakdowns of public transport systems. Accessible and effective public transportation is essential to enable the thriving economy of the urban-dense, fast-paced island nation. This is why good planning of mass public transport systems like the Mass Rapid Transport (MRT) system is so important. \nMost recently, the development of the Thomson East Coast Line (TEL) has been a crucial part of Singapore’s plan to enable 4 in every 5 households to live within a 10-minute walk of a train station [1]. There have also been plans to expand the islandwide cycling network to about 700km by 2030 [2]. Our team will measure, analyse, and evaluate the effectiveness of the proposed Stage 4 TEL stations and the implementation of a cycling path network in those areas. \n\nThe seven Stage 4 TEL stations we will analyse are shown below.\n\n\nIn addition to its much later opening in 2027 [3], most residential areas near the Founders’ Memorial station are covered by buffer zones of the adjacent Tanjong Rhu MRT. We will thus exclude the TE22A Founders’ Memorial MRT station from our analysis.\n\nOur analysis:\n\nInitial Data Exploration and Analysis\n\nUsing OSM data (POIs and residential)\nPopulation data\nBuffer zones\n\nData Extraction\n\nAggregate demand from bus stop data\nOSM Road data\n\nData Classification\n\nManual labelling of OSM road layers for network analysis\n\nCreation of analysis layers\n\nNetwork analysis layer (QNEAT’s Iso Areas) for each MRT station\nMeasuring demand from analysis\n\n\n\n\n\n\nWith improved cycling infrastructure such as bike lanes and bike parks, the value and accessibility of the MRT stations are increased significantly. We also note that with the extended reach of cycling expands over multiple MRT lines, which makes it possible for relevant authorities to consider investing in biking infrastructure, rather than MRT stations. \nWe urge the relevant authorities to consider investing higher in biking infrastructure to encourage a transport system that is sustainable, active, and affordable."
   },
   {
     "objectID": "about.html",
@@ -23,35 +23,35 @@
   {
     "objectID": "proposal.html",
     "href": "proposal.html",
-    "title": "CatchingThomson",
+    "title": "Catching Thomson",
     "section": "",
     "text": "In resource-scarce Singapore, the primary purpose of public transport is to serve residents with efficient forms of mass transportation. Our study goes beyond traditional catchment analysis methods which focus on pedestrian catchment and also consider cycling catchment. This is in line with the LTA 2040 “Walk, Cycle, Ride” Masterplan and the growing popularity of cycling globally. With an estimated public cost of $25 billion and an ever-increasing ridership, it is essential to critically evaluate the full benefits of stage 4 stations along the Thomson East Coast Line (TEL)."
   },
   {
     "objectID": "proposal.html#project-objective",
     "href": "proposal.html#project-objective",
-    "title": "CatchingThomson",
+    "title": "Catching Thomson",
     "section": "Project Objective",
     "text": "Project Objective\n\nTo find out the extent to which the opening of TEL Stage 4 stations will increase accessibility for residences, or for visitors visiting the nearby places of interest\nTo make a comparative analysis of the implementation of TEL Stage 4 stations with the implementation of the cycling routes in the same region.\nTo identify the limitations of our scope and suggest recommendations for future works"
   },
   {
     "objectID": "proposal.html#data",
     "href": "proposal.html#data",
-    "title": "CatchingThomson",
+    "title": "Catching Thomson",
     "section": "Data",
     "text": "Data\n\nOpenStreetMaps Data Layers from GeoFabrik\n\nRoad Layers\nBuilding Layers\nPOI Layers\n\nLTA Data Mall Bus Stop Data"
   },
   {
     "objectID": "proposal.html#scope-of-work",
     "href": "proposal.html#scope-of-work",
-    "title": "CatchingThomson",
+    "title": "Catching Thomson",
     "section": "Scope of Work",
     "text": "Scope of Work\nThomson East Coast Line Stage 4 Stations (with exception of Founders’ Memorial).\nWe carried out 2 methods of analysis, by using a circular buffer and network analysis.\n\nCircular Buffer Approach\nThis is the simplest, yet the most naive method, to deduce the catchment areas. We created a circular 1 km buffer from each station, to find the number of residents in the buffer area, assuming residents are evenly distributed.\n\n\nNetwork Analysis\nThe next approach is based on the network analysis method. Instead of assuming a naive 1 km buffer, our catchment varies between multiple modes of transport along physical pathways or roads. In this case, the modes of transport include cycling in heavy traffic, cycling without heavy traffic, and walking."
   },
   {
     "objectID": "proposal.html#project-schedule",
     "href": "proposal.html#project-schedule",
-    "title": "CatchingThomson",
+    "title": "Catching Thomson",
     "section": "Project Schedule",
     "text": "Project Schedule"
   }
