@@ -4,7 +4,7 @@ title: "Project Overview"
 
 A report published by the Singapore Department of Statistics (2020) has shown an increase in ridership, travelling time and distance across all types of public transport in Singapore, possibly leading to increased traffic congestion or breakdowns of public transport systems. Accessible and effective public transportation is essential to enable the thriving economy of the urban-dense, fast-paced island nation. This is why good planning of mass public transport systems like the Mass Rapid Transport (MRT) system is so important.
 
-Most recently, the development of the Thomson East Coast Line (TEL) has been a crucial part of Singapore's plan to enable 4 in every 5 households to live within a 10-minute walk of a train station [^1]. There have also been plans to expand the island wide cycling network to about 700 km by 2030 [^2]. Our team will measure, analyse, and evaluate the effectiveness of the proposed Stage 4 TEL stations and the implementation of a cycling path network in those areas.
+Most recently, the development of the Thomson East Coast Line (TEL) has been a crucial part of Singapore's plan to enable 4 in every 5 households to live within a 10-minute walk of a train station. [^1] There have also been plans to expand the island wide cycling network to about 700 km by 2030. [^2] Our team will measure, analyse, and evaluate the effectiveness of the proposed Stage 4 TEL stations and the implementation of a cycling path network in those areas.
 
 [^1]: https://www.singstat.gov.sg/-/media/files/publications/cop2020/sr2/findings2.ashx
 
@@ -14,7 +14,7 @@ The seven Stage 4 TEL stations we will analyse are shown below:
 
 ![](images/sg_mrts.png)
 
-In addition to its much later opening in 2027 [^3], most residential areas near the Founders' Memorial station are covered by buffer zones of the adjacent Tanjong Rhu MRT. We will thus exclude the TE22A Founders' Memorial MRT station from our analysis.
+In addition to its much later opening in 2027, [^3] most residential areas near the Founders' Memorial station are covered by buffer zones of the adjacent Tanjong Rhu MRT. We will thus exclude the TE22A Founders' Memorial MRT station from our analysis.
 
 [^3]: https://www.todayonline.com/singapore/founders-memorial-likely-open-two-years-later-envisaged
 

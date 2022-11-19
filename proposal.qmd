@@ -19,7 +19,12 @@ In resource-scarce Singapore, the primary purpose of public transport is to serv
     -   Road Layers
     -   Building Layers
     -   POI Layers
--   LTA Data Mall Bus Stop Data
+-   LTA Data Mall
+    -   Bus Stop Usage
+-   data.gov.sg
+    -   Bus Stop Locations
+    -   Planning Subzone Boundaries
+    -   Subzone Population 
 
 ## Scope of Work
 

@@ -18,14 +18,21 @@
     "href": "takeaways.html#network-analysis",
     "title": "Takeaways",
     "section": "Network Analysis",
-    "text": "Network Analysis\nUsing previously collected bus stop data in our work area, we have measured the approximate demand for those areas within a 5 minute journey on foot and cycling - specifically, on dedicated bike routes like park connectors and shared roads like primary roads.\nWe have split our analyses into 3 parts: Walking, Beginner Cycling, and Advanced Cycling.\n\n\n\n\n\n\n\n\nAnalysis Type\nRoad Type(s)\nSpeed (km/h)\n\n\nWalk\nFootways, Steps, Residential, etc.\n4\n\n\nCycling (Beginner)\nCycleway, Living Street, etc.\n10 - 25\n\n\nCycling (Advanced)\nPrimary, Secondary\n30\n\n\n\nWe have created four charts below to illustrate the impact that cycling has on accessibility to these MRT stations based on our analysis.\n\n\n\n\nIn the charts above, we can observe that most of the stations in our work area have at least twice as much demand for cycling than just walking. We can also see the significant differences in the demand between dedicated cycling routes and cycling on shared roads, from about 3 times to more than 10 times, depending on the station.\nOne thing to note is the concentration of bus trips within the Marine Parade MRT area. This may be due to the overlap of bus stops between the Tanjong Katong and Marine Terrace areas as previously mentioned.\n\n\nWe can also see the difference between the areas covered by the extended journeys using cycling, which increases significantly - from 10 times to more than 20 times.\nThrough our research and analysis, we have discovered the increased value and accessibility of the Thomson East Coast Line (TEL) by using cycling routes. In line with the goals and provisions by the government for greater access to public transport and active mobility as previously mentioned, the development of biking infrastructure such as dedicated bike lanes and accessible bike parks can enable commuters to safely cycle more in their day-to-day commutes."
+    "text": "Network Analysis\nUsing previously collected bus stop data in our work area, we have measured the approximate demand for those areas within a 5 minute journey on foot and cycling - specifically, on dedicated bike routes like park connectors and shared roads like primary roads.\nWe have split our analyses into 3 parts: Walking, Beginner Cycling, and Advanced Cycling.\n\n\n\n\n\n\n\n\nAnalysis Type\nRoad Type(s)\nSpeed (km/h)\n\n\nWalk\nFootways, Steps, Residential, etc.\n4\n\n\nCycling (Beginner)\nCycleway, Living Street, etc.\n10 - 25\n\n\nCycling (Advanced)\nPrimary, Secondary\n30\n\n\n\nWe have created four charts below to illustrate the impact that cycling has on accessibility to these MRT stations based on our analysis.\n\n\n\n\nIn the charts above, we can observe that most of the stations in our work area have at least twice as much demand for cycling than just walking. We can also see the significant differences in the demand between dedicated cycling routes and cycling on shared roads, from about 3 times to more than 10 times, depending on the station.\nOne thing to note is the concentration of bus trips within the Marine Parade MRT area. This may be due to the overlap of bus stops between the Tanjong Katong and Marine Terrace areas as previously mentioned.\n\nWe can also see the difference between the areas covered by the extended journeys using cycling, which increases significantly - from 10 times to more than 20 times.\nThrough our research and analysis, we have discovered the increased value and accessibility of the Thomson East Coast Line (TEL) by using cycling routes. In line with the goals and provisions by the government for greater access to public transport and active mobility as previously mentioned, the development of biking infrastructure such as dedicated bike lanes and accessible bike parks can enable commuters to safely cycle more in their day-to-day commutes."
+  },
+  {
+    "objectID": "takeaways.html#produced-maps",
+    "href": "takeaways.html#produced-maps",
+    "title": "Takeaways",
+    "section": "Produced maps",
+    "text": "Produced maps\n\nLegend\n\n\n\nTanjong Rhu Station\n\n\n\nKatong Park Station\n\n\n\nTanjong Katong Station\n\n\n\nMarine Parade Station\n\n\n\nMarine Terrace Station\n\n\n\nSiglap Station\n\n\n\nBayshore Station"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Project Overview",
     "section": "",
-    "text": "A report published by the Singapore Department of Statistics (2020) has shown an increase in ridership, travelling time and distance across all types of public transport in Singapore, possibly leading to increased traffic congestion or breakdowns of public transport systems. Accessible and effective public transportation is essential to enable the thriving economy of the urban-dense, fast-paced island nation. This is why good planning of mass public transport systems like the Mass Rapid Transport (MRT) system is so important.\nMost recently, the development of the Thomson East Coast Line (TEL) has been a crucial part of Singapore’s plan to enable 4 in every 5 households to live within a 10-minute walk of a train station 1. There have also been plans to expand the island wide cycling network to about 700 km by 2030 2. Our team will measure, analyse, and evaluate the effectiveness of the proposed Stage 4 TEL stations and the implementation of a cycling path network in those areas.\nThe seven Stage 4 TEL stations we will analyse are shown below:\nIn addition to its much later opening in 2027 3, most residential areas near the Founders’ Memorial station are covered by buffer zones of the adjacent Tanjong Rhu MRT. We will thus exclude the TE22A Founders’ Memorial MRT station from our analysis.\nStages of analysis:"
+    "text": "A report published by the Singapore Department of Statistics (2020) has shown an increase in ridership, travelling time and distance across all types of public transport in Singapore, possibly leading to increased traffic congestion or breakdowns of public transport systems. Accessible and effective public transportation is essential to enable the thriving economy of the urban-dense, fast-paced island nation. This is why good planning of mass public transport systems like the Mass Rapid Transport (MRT) system is so important.\nMost recently, the development of the Thomson East Coast Line (TEL) has been a crucial part of Singapore’s plan to enable 4 in every 5 households to live within a 10-minute walk of a train station. 1 There have also been plans to expand the island wide cycling network to about 700 km by 2030. 2 Our team will measure, analyse, and evaluate the effectiveness of the proposed Stage 4 TEL stations and the implementation of a cycling path network in those areas.\nThe seven Stage 4 TEL stations we will analyse are shown below:\nIn addition to its much later opening in 2027, 3 most residential areas near the Founders’ Memorial station are covered by buffer zones of the adjacent Tanjong Rhu MRT. We will thus exclude the TE22A Founders’ Memorial MRT station from our analysis.\nStages of analysis:"
   },
   {
     "objectID": "index.html#our-key-findings",
@@ -37,9 +44,9 @@
   {
     "objectID": "report.html",
     "href": "report.html",
-    "title": "Link to Final Report",
+    "title": "Link to final report",
     "section": "",
-    "text": "Please find our final report here: https://docs.google.com/document/d/1uSBuuHMckSJPBSkNvQ696-Sj5R72REnfBPUo9FD5ig0/edit?usp=sharing"
+    "text": "Please find our final report here."
   },
   {
     "objectID": "proposal.html",
@@ -60,7 +67,7 @@
     "href": "proposal.html#data",
     "title": "Project Proposal",
     "section": "Data",
-    "text": "Data\n\nOpenStreetMaps Data Layers from GeoFabrik\n\nRoad Layers\nBuilding Layers\nPOI Layers\n\nLTA Data Mall Bus Stop Data"
+    "text": "Data\n\nOpenStreetMaps Data Layers from GeoFabrik\n\nRoad Layers\nBuilding Layers\nPOI Layers\n\nLTA Data Mall\n\nBus Stop Usage\n\ndata.gov.sg\n\nBus Stop Locations\nPlanning Subzone Boundaries\nSubzone Population"
   },
   {
     "objectID": "proposal.html#scope-of-work",
